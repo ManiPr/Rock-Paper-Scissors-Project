@@ -1,4 +1,4 @@
-const optionImagesElem=document.querySelectorAll('.option_images')
+const optionImagesElem=document.querySelectorAll('.option_image')
 const resultElem=document.querySelector('.result')
 const cpuResultElem=document.querySelector('.cpu_result')
 const userResultElem=document.querySelector('.user_result')
